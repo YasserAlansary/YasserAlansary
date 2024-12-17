@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am a detail-oriented Data Analyst with <br>a strong background in data manipulation <br>and analysis. Proficient in SQL, Python, and<br>data visualization tools like Power BI and<br>Tableau, I excel at transforming complex <br>data into actionable insights. My experience <br>includes working with diverse datasets to<br>identify trends and drive strategic decision-<br>making. I am passionate about leveraging <br>data to solve business challenges and<br>enhance operational efficiency.
+I am a detail-oriented Data Analyst with a strong background in data manipulation and analysis. Proficient in SQL, Python, and data visualization tools like Power BI and<br>Tableau, 
+I excel at transforming complex data into actionable insights. My experience includes working with diverse datasets to identify trends and drive strategic decision-making.
+I am passionate about leveraging data to solve business challenges and enhance operational efficiency.
 
 
 ## 🌐 Socials:
